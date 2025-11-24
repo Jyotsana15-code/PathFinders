@@ -1,6 +1,6 @@
 package PathFinders.Day6;
 
-public class InvertedTrianglePattern {
+public class InvertedTriangle {
     public static void main(String[] args) {
         int n = 5;
 
